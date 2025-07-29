@@ -13,7 +13,7 @@ This project highlights my contribution to the development of an intelligent dua
   Used to connect one of the agents directly to BigQuery, enabling real-time data access via natural language queries.
 
 - **LangGraph Architecture:**  
-  Merged two independent agents—one specialized in structured data retrieval and the other in policy Q&A—into a single cohesive assistant.
+  Merged two independent agents—one specialized in structured data retrieval and the other in policy Q&A into a single cohesive assistant.
 
 - **Credit Risk Modeling:**  
   Contributed to building credit scoring models using Random Forest and Linear Regression to assess borrower risk and support lending strategies.
