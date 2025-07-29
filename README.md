@@ -2,7 +2,7 @@
 
 This project highlights my contribution to the development of an intelligent dual-agent chatbot system at Pezesha. The assistant was designed to handle both real-time data queries and internal policy-related questions by combining structured and unstructured retrieval approaches.
 
-![Dual Agent Architecture](./graph_agent.jpg)
+![Dual Agent Architecture](./graph agent.jpg)
 
 ## 🧠 Key Components
 
